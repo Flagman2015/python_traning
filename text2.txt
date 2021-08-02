@@ -1,0 +1,4 @@
+sara  23000
+aleks 22000
+nik 11200
+kris 14000
